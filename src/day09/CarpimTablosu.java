@@ -6,7 +6,7 @@ public class CarpimTablosu {
             for (int j = 1; j <=10 ; j++) {
                 System.out.print(i+"x"+j+"="+(i*j)+"\t");
             }
-            System.out.println("carpım taplosu");
+            System.out.println("");
         }
     }
 }
