@@ -24,7 +24,7 @@ public class Tools {
         return (grade-32)/1.8;
     }
 
-    //Mesafe hesaplayan bir metot yazınız
+    //Mesafe hesaplayan bir metot yazınız.
     public static int calculateDistance(int speed,int time){
         int distance=speed*time;
         return distance;
@@ -50,6 +50,10 @@ public class Tools {
     //(86-32)/1.8=30
     public static double convertFahrenheitToCelcius(int grade){
         return (grade-32)/1.8;
+
+
+
+
     }
 
 }
